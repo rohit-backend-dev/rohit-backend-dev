@@ -8,25 +8,13 @@ I primarily work with **Java and Spring Boot**, developing RESTful APIs with sec
 
 ## 🧑‍💻 Tech Stack
 
-**Backend**
-- Java  
-- Spring Boot  
-- REST APIs  
-- Spring Security (JWT & form-based authentication)
+| Category | Skills |
+|--------|--------|
+| **Backend & APIs** | Java, Spring Boot, Spring Security (JWT, OAuth2), RESTful API Design, Hibernate / JPA, SQL |
+| **Databases** | PostgreSQL, MongoDB |
+| **Frontend** | JavaScript, React.js, HTML, CSS, Tailwind CSS |
+| **Dev & Tools** | Git, GitHub, Docker, CI/CD fundamentals, Maven, Postman |
 
-**Database**
-- JPA / Hibernate  
-- SQL (MySQL)
-
-**Frontend**
-- HTML  
-- Tailwind CSS  
-- React (basic integration)
-
-**Tools**
-- Git & GitHub  
-- Maven  
-- Postman  
 
 ---
 
