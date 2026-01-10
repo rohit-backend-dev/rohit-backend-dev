@@ -40,7 +40,6 @@ A full-stack application with strong backend architecture.
 
 **Live:** https://e-c0mmerceapp.netlify.app/
 
-
 ---
 
 ## 📌 Career Goal
