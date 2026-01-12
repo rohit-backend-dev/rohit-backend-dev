@@ -42,6 +42,7 @@ A full-stack application with strong backend architecture.
 
 ---
 
+
 ## 📌 Career Goal
 I’m seeking an **entry-level Java / Backend Developer role** where I can:
 - Work on real backend systems  
