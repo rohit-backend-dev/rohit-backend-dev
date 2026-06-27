@@ -1,55 +1,43 @@
-# Hi, I'm Rohit Mishra 👋
+# Hi, I'm Rohit Kumar
 
-I’m a **Java developer** focused on building clean, reliable backend systems.
+**Backend Developer | ASP.NET Core | C# | Java | Spring Boot**
 
-I primarily work with **Java and Spring Boot**, developing RESTful APIs with secure authentication and solid database integration. I care about writing maintainable code and understanding how real-world backend systems work—not just making things run.
+Backend developer with professional experience building production applications using **ASP.NET Core** and **Spring Boot**. Experienced in developing secure REST APIs, implementing business logic, and integrating SQL and NoSQL databases.
 
----
+## Experience
 
-## 🧑‍💻 Tech Stack
+**.NET Backend Developer** — eduMitram Pvt. Ltd. *(Jun 2026 – Present)*
 
-| Category | Skills |
-|--------|--------|
-| **Backend & APIs** | Java, Spring Boot, Spring Security (JWT, OAuth2), RESTful API Design, Hibernate / JPA, SQL |
-| **Databases** | PostgreSQL, MongoDB |
-| **Frontend** | JavaScript, React.js, HTML, CSS, Tailwind CSS |
-| **Dev & Tools** | Git, GitHub, Docker, CI/CD fundamentals, Maven, Postman |
+* Building production backend applications with ASP.NET Core, Entity Framework Core, SQL Server, and REST APIs.
 
+**Backend Developer Intern** — Eduskills Foundation *(Apr 2025 – Jun 2025)*
 
----
+* Developed backend applications using Java, Spring Boot, PostgreSQL, Hibernate/JPA, and REST APIs.
 
-## 🚀 Projects
+**AI & Robotics Trainer** — Black Orange Talent *(Jan 2026 – May 2026)*
 
-### 🔗 URL Shortener
-A backend-first URL shortening service with clean API design.
+## Tech Stack
 
-- Converts long URLs into short, shareable links  
-- Focused on backend logic and RESTful APIs  
-- Built using Java & Spring Boot  
+**Backend:** ASP.NET Core, C#, Java, Spring Boot, Spring Security (JWT, OAuth2), Entity Framework Core, Hibernate/JPA, REST APIs
 
-**Live:** https://seeurl.netlify.app/
+**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
 
----
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
 
-### 🛒 E-commerce Application
-A full-stack application with strong backend architecture.
+**Tools:** Git, GitHub, Docker, Swagger, Postman, Maven
 
-- REST APIs for products, users, and orders  
-- Secure authentication and authorization  
-- Database integration using JPA/Hibernate  
+## Featured Projects
 
-**Live:** https://e-c0mmerceapp.netlify.app/
+* **Amazon Seller Management Platform** – ASP.NET Core, Entity Framework Core, SQL Server
+* **Stock Trading Platform** – ASP.NET Core, JWT Authentication, SQL Server
+* **URL Shortener** – Java, Spring Boot, PostgreSQL
 
----
+## Currently Learning
 
+Microservices • System Design • Docker • CI/CD • Cloud
 
-## 📌 Career Goal
-I’m seeking an **entry-level Java / Backend Developer role** where I can:
-- Work on real backend systems  
-- Improve my Spring Boot and microservices skills  
-- Learn from experienced engineers  
+## Contact
 
----
+**LinkedIn:** https://www.linkedin.com/in/rohit-mishra-in
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/rohit-mishra-in
+**Email:** [rk.rohit.dev@gmail.com](mailto:rk.rohit.dev@gmail.com)
